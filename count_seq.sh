@@ -1,3 +1,3 @@
 #!/bin/bash
-grep -c '^>' $1
+# USAGE grep -c '^>' $1
 
