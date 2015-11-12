@@ -1,1 +1,3 @@
-new file: count_seq.sh
+#!/bin/bash
+grep -c '^." $1
+
